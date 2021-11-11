@@ -16,8 +16,14 @@
 <img src = "./img/diploma.jpg">  
 <img src = "./img/act.jpg">  
 
-**19) діяльність за спеціальністю у формі участі у професійних та/або громадських об’єднаннях;**
-Запит зробив
+**19) діяльність за спеціальністю у формі участі у професійних та/або громадських об’єднаннях;**   
+Запрос на справку сделал, вот ссылки на информацию обо мне на их сайте:  
+
+https://it-kharkiv.com/kharkiv-it-cluster-proviv-zustrich-velykoyi-robochoyi-grupy/
+https://it-kharkiv.com/kharkiv-it-cluster-shosta-zustrich-klubu-teachers2it/ 
+https://it-kharkiv.com/kharkiv-it-cluster-proviv-chetvertu-zustrich-klubu-teachers2it/
+https://it-kharkiv.com/vebinar-dlya-svitcheriv-yak-navazhytysya-na-zminu-sfery-roboty/
+https://it-kharkiv.com/kharkiv-it-cluster-yakost-vyshhoyi-osvity/
 
 **20) досвід практичної роботи за спеціальністю не менше п’яти років (крім педагогічної, науково-педагогічної, наукової діяльності).**
 Свідостство фізичної особи-підприємця.
